@@ -7,7 +7,7 @@ DIEGO:
 GABRIELA: 
 HAJAR: 
 JAVIER: 
-KAROLINA: 
+KAROLINA: funciona
 LÚA: 
 LUCÍA: 
 LUISA: 
